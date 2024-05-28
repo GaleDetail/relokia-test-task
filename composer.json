@@ -1,0 +1,13 @@
+{
+  "require": {
+    "guzzlehttp/guzzle": "^7.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Relokia\\": "src/",
+      "Relokia\\API\\": "src/api",
+      "Relokia\\Service\\": "src/service",
+      "Relokia\\Utils\\": "src/utils"
+    }
+  }
+}
