@@ -7,6 +7,6 @@ return [
         'token' => 'your_api_token',
     ],
     'csv' => [
-        'path' => 'output/tickets.csv',
+        'path' => 'path/to/your/output.csv',
     ],
 ];
